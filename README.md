@@ -5,4 +5,4 @@ Data covers the ATP tour + Grand Slams from 1991 - Feb 2020. All data from [Ulti
 
 View interactive plot via the Interactive ATP Break Points.html file. 
 
-![Imgur](https://imgur.com/a/kSnMsEW)
+![Imgur](https://i.imgur.com/R96XLTf.png)
